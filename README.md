@@ -45,4 +45,6 @@ for i in range(len(fileList)):
     shutil.copy(yaml_source, yaml_target)
 ```
 # Train with mask-rcnn
-The detail of the code can read from the file named traffic_sin.py.
+The detail of the code can read from the file named traffic_sin.py.<br>
+Test some image and it work well<br>
+![Image text](https://github.com/VincentMy/Mask-Rcnn-Traffic-Sign-/blob/master/000_8_0056.png)
