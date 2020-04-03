@@ -47,4 +47,4 @@ for i in range(len(fileList)):
 # Train with mask-rcnn
 The detail of the code can read from the file named traffic_sin.py.<br>
 Test some image and it work well<br>
-![Image text](https://github.com/VincentMy/Mask-Rcnn-Traffic-Sign-/blob/master/000_8_0056.png)
+![Image text](https://github.com/VincentMy/Mask-Rcnn-Traffic-Sign-/blob/master/000_8_0058.png)
